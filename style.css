@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+#primary-nav ul {
+    background-color: lightgray;
+    display:flex;
+    gap: 20px;
+}
+#primary-nav a {
+    text-decoration: none;
+    color: rgb(3, 103, 40);
+    font-weight: bold;
+}
